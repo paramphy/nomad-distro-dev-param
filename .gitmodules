@@ -1,3 +1,24 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/nomad-parser-plugins-electronic"]
+	path = packages/nomad-parser-plugins-electronic
+	url = https://github.com/nomad-coe/electronic-parsers.git
+[submodule "packages/nomad-measurements"]
+	path = packages/nomad-measurements
+	url = https://github.com/FAIRmat-NFDI/nomad-measurements.git
+[submodule "packages/nomad-analysis"]
+	path = packages/nomad-analysis
+	url = https://github.com/FAIRmat-NFDI/nomad-analysis.git
+[submodule "packages/pynxtools"]
+	path = packages/pynxtools
+	url = https://github.com/FAIRmat-NFDI/pynxtools.git
+[submodule "packages/test-nomad-plugin"]
+	path = packages/test-nomad-plugin
+	url = https://github.com/paramphy/test-nomad-plugin.git
+[submodule "packages/nomad-docs"]
+	path = packages/nomad-docs
+	url = https://github.com/FAIRmat-NFDI/nomad-docs.git
+[submodule "packages/UU-nomad-plugin-images"]
+	path = packages/UU-nomad-plugin-images
+	url = https://github.com/paramphy/UU-nomad-plugin-images.git
