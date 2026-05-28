@@ -22,3 +22,6 @@
 [submodule "packages/UU-nomad-plugin-images"]
 	path = packages/UU-nomad-plugin-images
 	url = https://github.com/paramphy/UU-nomad-plugin-images.git
+[submodule "packages/plugin-img"]
+	path = packages/plugin-img
+	url = https://github.com/marzieh-saeedimasine/plugin-img.git
