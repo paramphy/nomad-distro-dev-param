@@ -12,6 +12,7 @@ dependencies = [
     "nomad-measurements",
     "nomad-parser-plugins-electronic",
     "nomad-plugin-images",
+    "plugin-img",
     "test-plugin",
 ]
 
@@ -31,6 +32,7 @@ test-plugin = { workspace = true }
 nomad-docs = { workspace = true }
 pynxtools = { workspace = true }
 nomad-plugin-images = { workspace = true }
+plugin-img = { workspace = true }
 
 [tool.uv]
 extra-index-url = [
