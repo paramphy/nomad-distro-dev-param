@@ -7,6 +7,7 @@
 [submodule "packages/nomad-measurements"]
 	path = packages/nomad-measurements
 	url = https://github.com/FAIRmat-NFDI/nomad-measurements.git
+<<<<<<< HEAD
 [submodule "packages/nomad-analysis"]
 	path = packages/nomad-analysis
 	url = https://github.com/FAIRmat-NFDI/nomad-analysis.git
@@ -25,3 +26,11 @@
 [submodule "packages/plugin-img"]
 	path = packages/plugin-img
 	url = https://github.com/marzieh-saeedimasine/plugin-img.git
+=======
+[submodule "packages/test-nomad-plugin"]
+	path = packages/test-nomad-plugin
+	url = https://github.com/paramphy/test-nomad-plugin
+[submodule "packages/nomad-docs"]
+	path = packages/nomad-docs
+	url = https://github.com/FAIRmat-NFDI/nomad-docs.git
+>>>>>>> dcd82f82d9cadd0a5c77130b1caafecf6f30b29b
